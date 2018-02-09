@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HelloWorldGit.iml" filepath="$PROJECT_DIR$/HelloWorldGit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HelloWorldGit.iml" filepath="$PROJECT_DIR$/.idea/HelloWorldGit.iml" />
+      <module fileurl="file://C:\Users\Usuario\AndroidStudioProjects\HelloWorldGit\HelloWorldGit.iml" filepath="C:\Users\Usuario\AndroidStudioProjects\HelloWorldGit\HelloWorldGit.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Usuario\AndroidStudioProjects\HelloWorldGit\app\app.iml" filepath="C:\Users\Usuario\AndroidStudioProjects\HelloWorldGit\app\app.iml" />
     </modules>
   </component>
 </project>
